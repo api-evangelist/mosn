@@ -46,3 +46,8 @@ commonProperties:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+common:
+  - type: DomainSecurity
+    url: security/mosn-domain-security.yml
+  - url: https://mosn.io/index.xml
+    type: Blog
