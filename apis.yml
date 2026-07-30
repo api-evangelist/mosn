@@ -6,9 +6,21 @@ description: >-
   as L4/L7 load balancer, API gateway, and cloud-native ingress, with multi-protocol
   support including HTTP/1.1, HTTP/2, and gRPC.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consuming
 access: Open-Source
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mosn.png
 tags:
   - Service Mesh
   - Proxy
