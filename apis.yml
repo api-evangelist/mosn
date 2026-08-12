@@ -59,6 +59,15 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: IssueTracker
+    url: https://github.com/mosn/mosn/issues
+  - type: Releases
+    url: https://github.com/mosn/mosn/releases
+  - type: ContributionGuide
+    url: https://github.com/mosn/mosn/blob/master/CONTRIBUTING.md
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/mosn/mosn/blob/master/LICENSE
   - type: DomainSecurity
     url: security/mosn-domain-security.yml
   - url: https://mosn.io/index.xml
