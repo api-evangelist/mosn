@@ -36,13 +36,14 @@ tags:
 - Proxy
 - API Gateway
 - Cloud-Native
-- Open-Source
+- Open Source
 tags_raw:
 - Service Mesh
 - Proxy
 - API Gateway
 - Cloud Native
 - Open Source
+- Open-Source
 created: '2026-04-28'
 modified: '2026-09-16'
 url: https://raw.githubusercontent.com/api-evangelist/mosn/refs/heads/main/apis.yml
